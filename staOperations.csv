@@ -1,0 +1,79 @@
+activityID,operationID,operationName,description,fringe,corridor,hub,border,ratio,caldariStationTypeID,minmatarStationTypeID,amarrStationTypeID,gallenteStationTypeID,joveStationTypeID
+1,1,Plantation,Makes livestock and grain that is shipped to food processing units.,0.7,0.2,0.1,0,0.65,1531,2499,1930,3866,3865
+1,2,Food Packaging,Makes food that is shipped to warehouses.,0,0.2,0.5,0.3,0.2,4024,2497,1928,3866,3865
+1,3,Warehouse,Stores products and shifts goods to external retailers or production corporations.,0,0.5,0,0.5,0.15,1531,2501,1929,3870,3865
+2,4,Foundry,Mines minerals from asteroid belts/clouds.,0.9,0.1,0,0,0.3,1529,2499,1930,3867,3865
+2,5,Production Plant,Molds finished construction pieces.,0.25,0.15,0.5,0.1,0.5,1529,2497,1928,3867,3865
+2,6,Warehouse,Stores product and freights goods to production corps.,0,0.5,0,0.5,0.2,1531,2501,1929,3870,3865
+3,7,Mining Outpost,Mines minerals from asteroid belts/clouds.,0.9,0.1,0,0,0.65,4023,2499,1930,3865,3865
+3,8,Refinery,"Refines the minerals, making purified ingots and rock materials.",0,0.1,0.45,0.45,0.15,4024,2497,1928,3867,3865
+3,9,Mineral Reserve,Stores product and freights goods to production corps.,0,0.5,0,0.5,0.2,4023,2501,1929,3865,3865
+4,10,Reprocessing Facility,Extracts chemicals from asteroid belts/clouds.,0.9,0.1,0,0,0.1,4023,2499,1930,3867,3865
+4,11,Chemical Refinery,"Refines the harvested chemicals, making bottled products.",0,0.1,0.9,0,0.8,1529,2497,1928,3867,3865
+4,12,Chemical Storage,Stores products and shifts goods to production corporations.,0,0.5,0,0.5,0.1,1531,2501,1929,3870,3865
+5,13,Testing Facilities,Makes plans and blueprints that are shipped to Assembly Plant.,0.9,0.1,0,0,0.2,54,2500,1931,3869,3865
+5,14,Assembly Plant,Produces weapons and ammunition that are shipped for storage.,0,0.1,0.6,0.3,0.55,1529,2498,1927,3867,3865
+5,15,Logistic Support,Stores product and freights goods to external retailers.,0,0.5,0,0.5,0.25,1530,2501,1929,3868,3865
+6,16,Biotech Research Center,Harvests resources from a planet.,0.7,0.3,0,0,0.2,54,2499,1930,3869,3865
+6,17,Biotech Production,Produces Biotech products.,0,0.1,0.45,0.45,0.7,1529,2497,1928,3867,3865
+6,18,Biohazard Containment Facility,Stores and recycles materials classified as biohazards.,0.5,0.5,0,0,0.1,54,2501,1929,3869,3865
+7,19,Research Center,Makes plans and blueprints that are shipped to Factory.,0.7,0.3,0,0,0.1,54,2500,1931,3869,3865
+7,20,Factory,Produces finished hi-tech products.,0,0.1,0.5,0.4,0.8,1529,2497,1928,3867,3865
+7,21,Warehouse,Stores product and freights goods to external retailers.,0,0.5,0,0.5,0.1,1531,2501,1929,3870,3865
+8,22,Development Studio,Produces entertainment material that is shipped to Publishers.,0,0.1,0.45,0.45,0.8,1531,2496,1931,56,3865
+8,23,Publisher,Stores and multiplies the entertainment material and ships it to retailers.,0,0.1,0.8,0.1,0.2,3872,2496,1926,57,3865
+9,24,Shipyard,Produces starships that are shipped for storage in Storage Bay.,0,0.1,0.9,0,0.8,1530,2498,1927,3868,3865
+9,25,Storage Bay,Stores ships before freighting them to retailers.,0,0.5,0,0.5,0.2,3872,2502,1929,3870,3865
+10,26,Storage,Stores cargo for other corps before shipping it to retailers.,0.25,0.25,0.25,0.25,1,1531,2501,1929,3870,3865
+11,27,Warehouse,Stores products and freights goods to retail center.,0.4,0.25,0.1,0.25,0.7,1531,2501,1929,3870,3865
+11,28,Retail Center,"Sells goods from warehouses to consumers, and to service stations.",0,0.1,0.45,0.45,0.3,1531,2496,1926,57,3865
+12,29,Warehouse,Stores products and freights goods to Trading Post.,0.5,0.25,0,0.25,0.5,1531,2501,1929,3870,3865
+12,30,Trading Post,Sells wares received from production corps.,0,0.15,0.35,0.5,0.5,1531,2502,1932,3868,3865
+13,31,Bureau Offices,Delivers reports and provides information concerning the Bureau's field.,0,0.1,0.45,0.45,0.4,1529,2496,1926,56,3865
+14,32,Academy,Studies issues within the administration system and produces personnel.,0.5,0.5,0,0,0.2,1529,2502,9857,57,3865
+14,33,Bureau,Delivers reports and publishes rules and manifestos concerning the Bureau's field.,0,0.15,0.4,0.45,0.7,1531,2502,1932,56,3865
+14,34,Treasury,Stores data and kredit sheets for the Bureau to work with.,1,0,0,0,0.1,1530,2498,1927,3868,3865
+17,35,Depository,Works as a bank.,0,0.1,0.85,0.05,0.7,1529,2502,1932,57,3865
+17,36,Vault,Stores data and kredit sheets for the Bank to work with.,1,0,0,0,0.3,1530,2501,1927,3868,3865
+18,37,School,Produces personnel and sells skill packages.,0,0,0.5,0.5,1,1529,2500,1931,57,3865
+19,38,Factory,,0,0.1,0.45,0.45,0.8,4024,2497,1928,3867,3865
+19,39,Warehouse,,0,0.5,0,0.5,0.2,1531,2501,1929,3870,3865
+15,40,Tribunal,Court facilities where judicial matters are arbitrated.,0,0,0.5,0.5,0.4,1530,2496,9857,3868,3865
+15,41,Accounting,Accounting and audit firms,0.3,0.3,0.2,0.2,0.3,1529,2500,1931,57,3865
+15,42,Law School,,0.5,0.3,0.1,0.1,0.3,3871,2502,1929,56,3865
+13,43,Archives,Stores administrative documents and data.,0.7,0.3,0,0,0.3,1529,2500,1931,57,3865
+13,44,Information Center,Distributes administrative information to the public.,0,0,0.5,0.5,0.3,3872,2502,1926,57,3865
+20,45,Manufacturing,,0,0,0,0,0,,,,,
+20,46,Refining,,0,0,0,0,0,,,,,
+20,47,Cloning,,0,0,0,0,0,,,,,
+20,48,Caldari Research Outpost,,0,0,0,0,0,,,,,
+20,49,Amarr Factory Outpost,,0,0,0,0,0,,,,,
+20,50,Gallente Administrative Outpost,,0,0,0,0,0,,,,,
+20,51,Minmatar Service Outpost,,0,0,0,0,0,,,,,
+7,52,Applied Gravitation Laboratory,"This station houses the Sanctuary’s cutting-edge graviton physics research facility. Approaching vessels are advised to carefully follow all instructions from traffic controllers, as potentially hazardous spatial distortions may be present in the immediate vicinity.
+
+It is widely assumed that this laboratory’s previous breakthroughs are responsible for the advanced cloaking capabilities of the Astero and Stratios class vessels. Access to the laboratory and administrative levels are restricted and all capsuleer guests are confined to their quarters without exception.",0,0,0,0,0,,,,,
+7,53,Institute of Paleocybernetics,"Tasked with investigating ancient yet still functioning artificial intelligence systems, this station is home to the Sanctuary’s foremost experts in the behavior and anatomy of the enigmatic Sleeper drones.
+
+Unconfirmed reports leaked in YC116 suggest that researchers at this institute may have succeeded in what was once considered unachievable: capturing and containing operational Sleeper drone subjects. The vast majority of the station is accessible only to authorized Sanctuary personnel, and a heavy security presence discourages snooping.",0,0,0,0,0,,,,,
+7,54,Surveillance Observatory,"The advanced omni-spectral sensor arrays equipped to this station enable detailed observation and tracking of the Sleeper activity anywhere in this massive star system.
+
+This facility also serves as the central processing location for data fed from gravitational field sensors fitted to each of the Sanctuary stations spread across Thera. This infrastructure allows rapid trilateration of nearby irregularities in space-time, whether they are detectable through normal scanner probes or not.",0,0,0,0,0,,,,,
+7,55,Fullerene Loom,"This station contains equipment dedicated to the delicate task of processing and manipulating fullerene-rich gases and their byproducts. The resulting polymers are used in multiple applications throughout Thera, enabling continued expansion and maintenance of the Sanctuary’s expedition.
+
+Capsuleer guests at the stations are welcome within clearly designated zones, however use of the hybrid reaction lines is restricted to authorized Sanctuary personnel only.",0,0,0,0,0,,,,,
+7,106,Bioadaptation Chambers,"Triglavian occupation of a space station typically involves converting much of its interior from its former purpose, the Clades apparently being inclined to use the seized station for their own ends rather than destroy a useful asset.  This station has been turned into a facility focused on bioadaptation of lifeforms to a variety of environmental conditions. The numerous chambers devoted to this purpose are used to adapt both Triglavians and non-Triglavians, depending on their needs and the environmental adjustments necessary.",0,0,0,0,0,,,,,
+7,109,Extractive Terminus,"Triglavian occupation of a space station typically involves converting much of its interior from its former purpose, the Clades apparently being inclined to use the seized station for their own ends rather than destroy a useful asset.  The clade that seized this station saw fit to convert it to a terminus for the resource extraction operations being carried out across its Krai. The vast processing operations are evidently also receiving deliveries from resource harvesting and raids taking place in Known Space systems of continued interest to the Triglavians.",0,0,0,0,0,,,,,
+7,110,Proving Complex,"Triglavian occupation of a space station typically involves converting much of its interior from its former purpose, the Clades apparently being inclined to use the seized station for their own ends rather than destroy a useful asset.  This station has been transformed into a facility devoted to the various forms of ""proving"" being undertaken by the controlling clade and its subclades. These procedures appear to be a complex mix of testing, ritual and philosophical discourse: a form of concrete dialectics aimed at determining the worth of individuals, groups, theories, ideologies, technology, social practices and more besides.",0,0,0,0,0,,,,,
+7,111,Semiosis Theater,"Triglavian occupation of a space station typically involves converting much of its interior from its former purpose, the Clades apparently being inclined to use the seized station for their own ends rather than destroy a useful asset.  The controlling clade has turned this station into a facility that seems to be a combination of communications hub, data processing complex and diplomatic venue. It may be a specialized class of proving center focusing on the semiotic aspects of the profoundly dialectical way of thinking and acting that dominates Triglavian culture.",0,0,0,0,0,,,,,
+7,112,Mutaplasmid Farm,"Triglavian occupation of a space station typically involves converting much of its interior from its former purpose, the Clades apparently being inclined to use the seized station for their own ends rather than destroy a useful asset.  This station has been significantly transformed by the occupying clade's decision to use it as a facility dedicated to farming mutaplasmids of all kinds. Many of the internal spaces are now seething caverns filled with the bizarre semi-biological, semi-artificial form of evolutionary nanotechnology used by the Triglavians to develop and adapt technology.",0,0,0,0,0,,,,,
+7,113,Porevitium Vault,"Triglavian occupation of a space station typically involves converting much of its interior from its former purpose, the Clades apparently being inclined to use the seized station for their own ends rather than destroy a useful asset.  Security within this station is extremely high and the controlling clade is even less tolerant than usual when it comes to perceived infractions and violations by residents or visitors. The core of the station is totally sealed off to all but the elite troikas of the clade and is apparently being used as a storage facility for a surplus of the most valuable resources obtained by Triglavian harvesting operations.",0,0,0,0,0,,,,,
+14,114,Halls of Liberation,"The Halls of Liberation station is a unique facility dedicated to remembering the sacrifices of the Minmatar people during the Great Rebellion. Built in YC123, following the inaugural Liberation Games marking the Great Rebellion, the station is formally neutral territory in terms of the Seven Tribes of Matar, but each year it is operated by the last Minmatar Tribe to win the Liberation Games.
+
+The Halls of Liberation contains many memorial chambers and shrines to the memory of the heroes of the Great Rebellion. A large museum contains sections for each tribe, for the civilization of the old Minmatar Empire, and for the new Tribal Republic of the Minmatar. Positioned above the home planet of Matar, the station is the first in orbit to open for capsuleer traffic and many Minmatar corporations maintain a presence, together with various agencies of the Republic government.",0,0,0,0,0,,,,,
+5,118,Anchorage,,0,0,0,0,0,1529,,,56,
+12,119,Fulfillment Center,,0,0,0,0,0,,,,,
+14,120,Bureau (Damaged),This Minmatar Republic Parliament Bureau station has been severely damaged by an extreme stellar event due to the close vicinity of the planet it orbits to the central star. The station remains operational in terms of basic functions but has been seriously impaired by a massive radiation burst that overwhelmed the formidable shielding of the structure and came close to reducing the bureau to a lifeless wreck.,0,0,0,0,0,,2502,,,
+14,121,- The Fulcrum,"The Fulcrum is the ancient Jovian outpost at the heart of Zarzakh from which the Deathless Circle projects its power and exerts the will of its enigmatic leader. Properly speaking, the Fulcrum is that part of the ancient Jovian structure occupied and made active by the forces of the Deathless Circle and their pirate allies. The name has come to be applied more generally to the vast megastructure the Jove left behind when they abandoned their old home and the core regions of New Eden generally.
+
+The dark and echoing vaults and depths of the Fulcrum are a testament to how long the Jove made use of this outpost, which evidently functioned as some combination of space-based colony, research facility, and waystation. Amidst the ruinous gaps left when the station was abandoned by the Jove there are pockets where intact chambers and banks of strange devices remain. While much is no longer in place, the outpost retains a significant amount of its city-scale infrastructure and large sections remain unexplored, and potentially filled with opportunities and hazards alike.",0,0,0,0,0,,,,,78334

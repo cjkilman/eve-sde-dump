@@ -1,0 +1,838 @@
+skinMaterialID,displayName,materialSetID
+1,Ardishapur,1
+2,Kador,2
+3,Quafe,3
+4,Khanid,4
+5,Sarum,5
+6,Tash-Murkon,6
+7,Ishukone,7
+8,Kaalakiota,8
+9,Lai Dai,9
+10,Nugoeihuvi,10
+11,Sukuuvestaa,11
+12,Wiyrkomi,12
+13,Aliastra,13
+14,Duvolle,14
+15,Inner Zone Shipping,15
+16,Intaki Syndicate,16
+17,InterBus,17
+18,Federal Police,18
+19,Roden,19
+20,Justice,20
+21,Nefantar,21
+22,Krusual,22
+23,Sebiestor,23
+24,Thukker Tribe,24
+25,Blood Raiders,25
+26,Guristas,26
+27,ORE Development,27
+28,Serenity,53
+29,Serpentis,29
+30,Vherokior,30
+31,Nocx Rush,31
+34,Sanctuary,34
+38,EoM,79
+40,Serenity,42
+41,Serenity,43
+42,Serenity,44
+43,Serenity,45
+50,Serenity,46
+51,Serenity,47
+52,Serenity,48
+53,Serenity,49
+54,Serenity,50
+55,Serenity,51
+56,Serenity,52
+58,Golden,81
+59,Golden,82
+60,Umbral,78
+67,Raata Sunset,75
+68,Blue Tiger,74
+69,Valklear Glory,76
+70,Blue Tiger,77
+74,Victory,88
+80,Serenity,53
+82,Raata Sunset,84
+83,Valimor Legacy,87
+84,Waschi Uprising 'Combat',89
+85,Waschi Uprising 'Parade',90
+87,Nova,91
+88,Nova,92
+89,Nova,93
+90,Nova,94
+91,Nova,95
+92,Tronhadar Ink,86
+93,Matigu Seabeast,85
+94,IGC Victory,98
+96,Valkyrie,106
+98,Upwell,110
+99,Palatine,111
+100,Imperial Armaments,102
+102,Purity of the Throne,121
+104,Morphite Shine,114
+106,Digmaster Blazon,115
+107,Paydirt Prospector,116
+108,Cold Iron,122
+116,Ironblood,120
+118,Ironblood,123
+119,Blood Raider Victory,117
+121,Rosada Dawn,162
+123,Amarr Industrial Livery,154
+124,Caldari Industrial Livery,155
+125,Gallente Industrial Livery,156
+126,Minmatar Industrial Livery,157
+127,Angel Industrial Livery,158
+128,Blood Raider Industrial Livery,159
+129,Guristas Industrial Livery,160
+130,Sansha Industrial Livery,161
+132,Claim Foreman,166
+133,Star Captain,133
+135,Glacial Drift,170
+136,Glacial Drift,173
+137,Glacial Drift,171
+138,Glacial Drift,172
+139,Glacial Drift,174
+140,SOE Fire Cell (Defense),167
+141,SOE Blue Cell (Surveillance),168
+142,SOE Gold Cell (Archaeology),169
+147,Versus Redforce,129
+148,Versus Blueforce,130
+149,,142
+150,,143
+151,Convergence - Nova,177
+152,Midnight,125
+153,IGC Victory,97
+154,Spirit,184
+155,Spirit,185
+157,IGC Victory,188
+160,Sapphire Sungrazer,187
+164,YC119,192
+173,CONCORD Aerospace 'Prototype',201
+174,YC119 Capsuleer Day,199
+175,Hostile Takeover,198
+178,Guristas Victory,197
+179,Hazard Control,205
+180,Ruby Sungrazer,186
+181,Angel's Hex,223
+184,Exoplanets Hunter,215
+185,Exoplanets Hunter,210
+186,Exoplanets Hunter,212
+187,Exoplanets Hunter,214
+188,Exoplanets Hunter,213
+189,Firewall Breach,217
+190,Firewatch,207
+191,Sunburst,224
+192,Nightfire,225
+193,Skyliner,226
+194,Battlescar,227
+195,IGC,188
+196,IGC,230
+197,IGC,231
+198,Steel Cardinal,239
+199,Kairiola's Sacrifice,243
+200,Valkyrie,247
+201,Valkyrie,248
+202,Valkyrie,249
+203,Kopis Edge,259
+204,Spectral Shift,195
+205,Imperial Jubilee,266
+206,Forgemaster,240
+207,Serpentis Victory (Gallente Hulls),236
+208,Serpentis Victory (Angel Hulls),237
+209,War Reserves Lieutenant,246
+210,Military Stockpile Captain,262
+211,Strategic Materiel Defender,269
+212,Fleet Ordnance Spike,270
+213,Headhunter,280
+214,Headhunter,281
+215,Headhunter,282
+216,Headhunter,283
+217,Octopus Red Flight,273
+218,Lodestrike,274
+219,Lodestrike,275
+220,Lodestrike,276
+221,Lodestrike,277
+222,Lodestrike,278
+223,Glacial Drift,285
+224,Glacial Drift,286
+225,Glacial Drift,287
+226,Glacial Drift,288
+227,Glacial Drift,289
+228,Glacial Drift,290
+229,King's Ransom – Luecin,293
+230,King's Ransom – Darouen,294
+231,Serene Hao,296
+232,Serene Mang,297
+233,Serene Song,305
+234,Serene Tu,306
+235,Serene Rou,307
+236,"""Blaze"" Squadron",313
+237,"""Blaze"" Squadron",314
+238,"""Blaze"" Squadron",315
+239,"""Blaze"" Squadron",316
+240,"""Blaze"" Squadron",317
+241,Bloody Hands,299
+242,Crystal Blast,298
+243,Eros Blossom,332
+244,Eros Blossom,333
+245,Eros Blossom,334
+246,Eros Blossom,335
+247,Eros Blossom,336
+248,Spirit,329
+249,Spirit,330
+250,Spirit,331
+251,Shakim Warlord,324
+252,Empyrean Dragons,300
+253,One Eden,308
+254,Hunter's Quiver,346
+255,Hunter's Quiver,347
+256,Hunter's Quiver,348
+257,Hunter's Quiver,349
+258,Ace of Podhunters,350
+259,Glittering Dream,303
+260,Sariel's Flames,337
+261,Versus Redforce,146
+262,Versus Blueforce,147
+263,Silver Racer,124
+264,Octopus Orange Flight,304
+265,Capsuleer Day XV,341
+266,Capsuleer Day XV,342
+267,Capsuleer Day XV,343
+268,Capsuleer Day XV,344
+270,Capsuleer Elite XV,323
+271,Capsuleer Elite XV,321
+272,Capsuleer Elite XV,319
+273,Capsuleer Elite XV,320
+274,Capsuleer Elite XV,322
+275,Capsuleer Elite XV,351
+276,Capsuleer Networker XV,345
+277,SARO 'Black Troop',327
+278,Sarpati's Revenge - Igil,302
+279,Sarpati's Revenge - Virge,301
+280,Ghostbird,295
+281,Dos Rouvenor's Bequest,361
+282,Luminaire Rising,353
+283,Luminaire Rising,354
+284,Luminaire Rising,355
+285,Luminaire Rising,356
+286,Luminaire Zenith,357
+287,Luminaire Zenith,358
+288,Luminaire Zenith,359
+289,Luminaire Zenith,360
+291,Chainbreaker Khumaak,362
+292,Dawn of Liberation,363
+293,Ultra Jungle (Magneto),364
+294,Ultra Jungle (Ladar),365
+295,IGC,97
+296,IGC,98
+297,Triglavian Victory,381
+298,Quantum Potential,371
+299,DED 'Master-at-Arms' Recruiter,369
+300,DED 'Alpha Plus' Taskforce,370
+301,Singularity Storm,392
+302,Hadean Horror,398
+303,Planetary Extraction (Upwell),382
+304,Combat Medic Section,372
+305,Combat Medic Section,373
+306,Combat Medic Section,374
+307,Combat Medic Section,375
+308,Emergency Response Squad,376
+309,Emergency Response Squad,377
+310,Emergency Response Squad,378
+311,Emergency Response Squad,379
+312,Caldari Union Day,401
+313,Sovereign Claim,393
+314,Storm Bear,402
+315,Storm Bear,403
+316,Cordite Blossom,414
+317,Cordite Blossom,415
+318,Cordite Blossom,416
+319,Cordite Blossom,417
+321,Cryptic Mimesis,165
+322,Cryptic Mimesis,432
+323,Cryptic Mimesis,163
+324,Cryptic Mimesis,431
+325,Absent Heroes,94
+326,Deathglow Hunters,433
+327,Deathglow Hunters,434
+328,Serenity Flame SKIN,418
+329,Serenity Cloud SKIN,420
+330,Serenity Water SKIN,421
+331,Serenity Electric SKIN,422
+332,Serenity Splatter SKIN (Thorax),423
+333,Serenity Splatter SKIN (Ashimmu),424
+334,Serenity Circle SKIN,425
+335,Serenity Twirl SKIN (Cynabal),426
+336,Abyssal Afterglow,435
+337,Abyssal Firestorm (Guristas),436
+338,Abyssal Thunderstorm,437
+340,Lavacore Imperial,427
+341,Operation Permafrost,439
+342,Icecloud Investigators,447
+343,Chromodynamic Candy,448
+345,Chromodynamic Candy,449
+346,Chromodynamic Candy,450
+347,Chromodynamic Candy,451
+348,Blackfire Steel,446
+354,Yoiul Festival YC121,444
+355,Yoiul Festival YC121,442
+356,Yoiul Festival YC121,440
+357,Yoiul Festival YC121,441
+358,Yoiul Festival YC121,443
+359,Amaranthine Mantle,454
+360,Amaranthine Mantle,455
+361,Amaranthine Mantle,456
+362,Metamateria Exotica,400
+364,Caille Neon,438
+365,Netherworld Striker,461
+2366,Emperor Bear,469
+2367,Emperor Bear,470
+2368,Red Meatgrinder,479
+2370,Capsuleer Day XVI (SoCT),474
+2371,Argyros Elite XVI (Amarr),475
+2372,Argyros Elite XVI (Caldari),476
+2373,Argyros Elite XVI (Minmatar),477
+2374,Argyros Elite XVI (Gallente),478
+2375,Permaband Holo XVI,462
+2378,Triglavian Twilight,2485
+2379,Triglavian Twilight,2486
+2380,Deadspace Dreamtime,2487
+2381,Violet Vellication,2482
+2383,In Rust We Trust,467
+2384,Red Forests Thunderbird,2483
+2385,Vitalshift EGO,471
+2387,True Deliverance,460
+2389,Kimotoro Eskeitan,2492
+2390,Niflhel Gildclaw,2489
+2391,Niflhel Gildclaw,2490
+2392,Niflhel Gildclaw,2491
+2394,Aetheric Raiders,2494
+2395,Inner Zone Vanguard,2493
+2396,Crown and Swords,2505
+2397,Snowline Bladeracer,2508
+2398,Malagrin Marshlight,2510
+2399,Malagrin Marshlight,2511
+2400,Malagrin Marshlight,2512
+2401,Malagrin Marshlight,2513
+2402,Malagrin Marshlight,2516
+2403,All-Stars Casino Clash,2509
+2404,Abyssal Firestorm,2517
+2405,Abyssal Firestorm,2518
+2406,Abyssal Firestorm,2519
+2407,Abyssal Firestorm,2520
+2408,Zento Isideko Combine,2515
+2409,Harmonious Ascension,2523
+2410,Harmonious Ascension,2524
+2411,Harmonious Ascension,2522
+2412,Harmonious Ascension,2525
+2414,Liminal Crossings,2526
+2415,Liminal Crossings,2527
+2416,Liminal Crossings,2528
+2419,Aurora Universalis,2532
+2420,Aurora Universalis,2531
+2421,Aurora Universalis,2530
+2422,Aurora Universalis,2529
+2423,Yoiul Star,2533
+2424,Yoiul Star,2534
+2425,Yoiul Star,2535
+2426,Yoiul Star,2536
+2427,Yoiul Star,2537
+2428,Metalbee Minmatar SKIN,2498
+2429,Metalbee Gallente SKIN,2497
+2430,Metalbee Amarr SKIN,2496
+2431,Metalbee Caldari SKIN,2495
+2432,Metamateria Exotica,2542
+2433,Blackfire Steel,2543
+2434,Hadean Horror,2544
+2440,Singularity Storm,2545
+2442,Singularity Storm,2546
+2443,All-Stars Casino Clash,2547
+2444,Singularity Storm,2548
+2445,All-Stars Casino Clash,2549
+2446,Oasis of Faith,480
+2447,Blackfire Steel,2539
+2448,Blackfire Steel,2540
+2449,Blackfire Steel,2541
+2450,Heartsurge,2556
+2451,Heartsurge,2557
+2452,Heartsurge,2558
+2453,Heartsurge,2559
+2454,Heartsurge,2560
+2455,Abyssal Darkfield,2486
+2456,Abyssal Exostorm,2555
+2459,DED Army Reserve,2561
+2460,Metamateria Exotica,2553
+2461,Metamateria Exotica,2552
+2462,Metamateria Exotica,2551
+2463,Helmatt's Harriers,2566
+2464,Dragon Phoenix,2480
+2465,Dragon Phoenix,2481
+2466,Dragon Phoenix,2576
+2467,Frontier Safeguarder (Gallente),2562
+2468,Frontier Safeguarder (Caldari),2563
+2469,Frontier Safeguarder (Minmatar),2564
+2470,Frontier Safeguarder (Amarr),2565
+2471,Permaband Roadies,468
+2473,Capsuleer Day XVII Capsule,2569
+2474,Capsuleer Day XVII SOCT,2570
+2475,Capsuleer Day XVII Amarr,2571
+2476,Capsuleer Day XVII Caldari,2572
+2477,Capsuleer Day XVII Gallente,2573
+2478,Capsuleer Day XVII Minmatar,2574
+2479,Eden's Hunters,2580
+2480,Eden's Hunters,2581
+2481,Eden's Hunters,2582
+2482,Eden's Hunters,2583
+2483,Eden's Hunters,2584
+2484,Eden's Hunters,2585
+2485,Eden's Hunters,2586
+2486,Kybernaut Clade,2587
+2487,Kybernaut Clade,2588
+2488,Kybernaut Clade,2589
+2489,Kybernaut Clade,2590
+2490,Kybernaut Clade,2591
+2491,Kybernaut Clade,2592
+2492,Kybernaut Clade,2593
+2515,Biosecurity Responders,2600
+2516,Biosecurity Responders,2601
+2517,Biosecurity Responders,2602
+2518,Biosecurity Responders,2603
+2519,Biosecurity Responders,2604
+2520,Biosecurity Responders,2605
+2521,Biosecurity Responders,2606
+2522,Biosecurity Responders,2607
+2523,Biosecurity Responders,2608
+2524,Biosecurity Responders,2609
+2525,Biosecurity Responders,2610
+2526,Biosecurity Responders,2611
+2527,Biosecurity Responders,2612
+2528,Biosecurity Responders,2613
+2529,Biosecurity Responders,2614
+2530,Biosecurity Responders,2615
+2531,Biosecurity Responders,2616
+2532,Biosecurity Responders,2617
+2533,Biosecurity Responders,2618
+2534,Biosecurity Responders,2619
+2535,Biosecurity Responders,2620
+2536,Freedom's Revolution,2621
+2537,Freedom's Revolution,2622
+2538,Starline Majestic,2623
+2539,Starline Majestic,2624
+2542,Abyssal Glory - Amarr,2628
+2543,Abyssal Glory - Caldari,2629
+2544,Abyssal Glory - Gallente,2630
+2545,Abyssal Glory - Minmatar,2631
+2546,Bluestar Defenders,2633
+2548,Strikeflight Red,2638
+2549,Malagrin Marshlight,2647
+2550,Rockbreaker Pioneers,2639
+2551,Rockbreaker Pioneers,2640
+2552,Rockbreaker Pioneers,2641
+2553,Rockbreaker Pioneers,2642
+2554,Rockbreaker Pioneers,2643
+2555,Deathglow Remnant,2648
+2556,Scope Syndication YC122,2649
+2557,Hazard Control,2651
+2558,Hazard Control,2652
+2559,Hazard Control,2653
+2560,Jita 4-4,2656
+2561,Redclaw Sable,2657
+2562,Redclaw Sable,2658
+2563,Redclaw Sable,2659
+2564,Redclaw Sable,2660
+2565,Redclaw Sable,2661
+2566,Redclaw Sable,2662
+2567,Redclaw Sable,2663
+2568,Aurora Universalis,2685
+2569,Aurora Universalis,2673
+2570,Aurora Universalis,2678
+2571,Aurora Universalis,2680
+2572,Aurora Universalis,2683
+2573,Aurora Universalis,2674
+2574,Aurora Universalis,2677
+2575,Aurora Universalis,2681
+2576,Aurora Universalis,2684
+2577,Aurora Universalis,2675
+2578,Aurora Universalis,2676
+2579,Aurora Universalis,2679
+2580,Aurora Universalis,2682
+2581,Zakura Shumyu,2664
+2582,Zakura Shumyu,2665
+2583,Zakura Shumyu,2666
+2584,Zakura Shumyu,2667
+2585,Zakura Shumyu,2668
+2586,Zakura Shumyu,2669
+2587,Zakura Shumyu,2670
+2588,Zakura Shumyu,2671
+2589,Zakura Shumyu,2686
+2590,Zakura Shumyu,2672
+2591,Zakura Hansei,2672
+2592,Zakura Hansei,2665
+2593,Zakura Hansei,2664
+2594,Zakura Hansei,2666
+2595,Zakura Hansei,2667
+2597,Serpentis,2698
+2598,EDENCOM Victory,2707
+2599,GalNet StreamCast Unit,2701
+2600,GalNet StreamCast Unit,2702
+2601,GalNet StreamCast Unit,2703
+2602,GalNet StreamCast Unit,2704
+2603,GalNet StreamCast Unit,2705
+2604,BlackIce Derailers,2700
+2605,Ghost's Hex,2723
+2606,Ghost's Hex,2724
+2607,Vampire's Hex,2725
+2608,Vampire's Hex,2726
+2609,Capsuleer Day XVIII,2713
+2610,Capsuleer Day XVIII,2714
+2611,Capsuleer Day XVIII,2722
+2612,Capsuleer Day XVIII,2715
+2613,Capsuleer Day XVIII,2719
+2614,Capsuleer Day XVIII,2716
+2615,Capsuleer Day XVIII,2720
+2616,Capsuleer Day XVIII,2717
+2617,Capsuleer Day XVIII,2721
+2618,Capsuleer Day XVIII,2718
+2619,Ultraviolence Vortex,2709
+2620,Ultraviolence Vortex,2710
+2621,Ultraviolence Vortex,2711
+2622,Ultraviolence Vortex,2712
+2623,Capsuleer Day XVIII,2728
+2624,Capsuleer Day XVIII,2729
+2626,Republic Fleet,2730
+2627,Caldari Navy,2731
+2628,Federation Navy,2732
+2629,Imperial Navy,2733
+2630,Fireblade Guerilla,2738
+2631,Fireblade Guerilla,2739
+2632,Fireblade Guerilla,2740
+2633,Fireblade Guerilla,2741
+2634,Fireblade Guerilla,2742
+2635,Iceblade Guerilla,2743
+2636,Iceblade Guerilla,2744
+2637,Iceblade Guerilla,2745
+2638,Iceblade Guerilla,2746
+2639,Iceblade Guerilla,2747
+2640,Green Demons,2625
+2641,Green Demons,2626
+2642,Green Demons,2627
+2644,Minmatar Liberation Games,2736
+2646,ASES Skin Astero,2764
+2648,ASES Skin Ishtar,2770
+2649,Brutor,2768
+2650,Starkmanir,2737
+2651,ASES Skin Gila,2772
+2652,ASES Skin Stratios,2777
+2653,Ammatar,2778
+2654,State Police,2568
+2657,Friendship League,2774
+2658,ASES Capsule,2795
+2659,AIR Laboratories,2758
+2660,AIR Laboratories,2760
+2661,AIR Laboratories,2775
+2663,AIR Laboratories,2759
+2664,Combat Medic Section,2797
+2665,Emergency Response Squad,2798
+2666,Semiotique Sports,2788
+2667,Semiotique Sports,2787
+2668,Semiotique Sports,2791
+2669,Semiotique Superluminal,2781
+2670,Semiotique Superluminal,2782
+2671,Semiotique Superluminal,2783
+2672,Semiotique Superluminal,2784
+2673,Semiotique Superluminal,2786
+2674,Aspirant Explorer,2748
+2675,Aspirant Explorer,2749
+2676,Aspirant Explorer,2750
+2677,Aspirant Industrialist,2751
+2678,Aspirant Enforcer,2752
+2679,Aspirant Enforcer,2753
+2680,Aspirant Soldier,2754
+2681,Aspirant Soldier,2755
+2682,Semiotique Sports,2790
+2683,Malagrin Marshlight,2828
+2684,Malagrin Marshlight,2829
+2685,Malagrin Marshlight,2830
+2686,Malagrin Marshlight,2831
+2687,Malagrin Marshlight,2832
+2688,Malagrin Marshlight,2833
+2689,Deathglow Hunters,2805
+2690,Deathglow Hunters,2806
+2691,Quafe Green Apple,2834
+2694,IGC Victory,230
+2695,IGC,2840
+2696,Copper Lightning,2847
+2698,Copper Lightning,2843
+2699,Copper Lightning,2844
+2700,Copper Lightning,2845
+2701,Copper Lightning,2846
+2703,Aurora Universalis,2856
+2704,Aurora Universalis,2857
+2705,Aurora Universalis,2858
+2706,Aurora Universalis,2859
+2707,Aurora Universalis,2860
+2708,Aurora Universalis,2861
+2709,Aurora Universalis,2862
+2710,Aurora Universalis,2863
+2711,Aurora Universalis,2864
+2712,Aurora Universalis,2865
+2713,Radioactives Reclamation,2866
+2714,Radioactives Reclamation,2867
+2715,Radioactives Reclamation,2868
+2716,Radioactives Reclamation,2869
+2718,Warp Convergence,2870
+2719,Warp Convergence,2872
+2720,Warp Convergence,2873
+2721,Warp Convergence,2874
+2725,Versus Redforce,126
+2726,Versus Blueforce,127
+2727,Versus Redforce,131
+2728,Versus Blueforce,132
+2729,Versus Redforce,138
+2730,Versus Blueforce,139
+2731,Versus Redforce,140
+2732,Versus Blueforce,141
+2738,Interstellar Convergence,2889
+2739,Interstellar Convergence,2888
+2740,Interstellar Convergence,2890
+2741,Interstellar Convergence,2891
+2742,Interstellar Convergence,2892
+2744,Triumphant Elite,2855
+2747,Semiotique Superluminal,2906
+2748,Semiotique Superluminal,2907
+2749,Semiotique Superluminal,2908
+2750,Semiotique Superluminal,2909
+2751,Ace of Podhunters,2965
+2752,Ace of Podhunters,2966
+2753,Ace of Podhunters,2967
+2755,Carmine Horizon,2687
+2756,Carmine Horizon,2688
+2757,Carmine Horizon,2689
+2758,Carmine Horizon,2690
+2759,Halcyon Dawn,2807
+2760,Halcyon Dawn,2808
+2761,Halcyon Dawn,2809
+2762,Halcyon Dawn,2810
+2763,Halcyon Dawn,2811
+2764,Halcyon Dawn,2812
+2765,Halcyon Dawn,2813
+2766,Halcyon Dawn,2814
+2767,Halcyon Dawn,2815
+2768,Halcyon Dawn,2816
+2769,Halcyon Dawn,2817
+2770,Halcyon Dawn,2818
+2771,Halcyon Dawn,2819
+2772,Halcyon Dawn,2820
+2773,Halcyon Dawn,2821
+2774,Halcyon Dawn,2822
+2775,Halcyon Dawn,2823
+2776,Halcyon Dawn,2824
+2777,Halcyon Dawn,2825
+2778,Halcyon Dawn,2826
+2779,Halcyon Dawn,2827
+2780,Versus Redforce,151
+2781,Versus Blueforce,152
+2782,Versus Redforce,2981
+2783,Versus Blueforce,2980
+2784,Versus Redforce,2982
+2785,Versus Blueforce,2983
+2786,Versus Redforce,2984
+2787,Versus Blueforce,2985
+2788,Capsuleer Elite XIX,2957
+2789,Capsuleer Elite XIX,2958
+2790,Capsuleer Elite XIX,2959
+2791,Capsuleer Elite XIX,2960
+2792,Capsuleer Elite XIX,2961
+2793,Capsuleer Elite XIX,2976
+2797,Capsuleer Day XIX,2962
+2798,Capsuleer Day XIX,2963
+2799,Capsuleer Day XIX,2964
+2800,Kimotoro Eskeitan Commander,2989
+2801,Semiotique Sports,2789
+2804,Corporate Police Force,3018
+2805,Home Guard,3019
+2806,Internal Security,3020
+2807,Ishukone Watch,3021
+2808,Lai Dai Protection Service,3022
+2809,Peace and Order Unit,3023
+2810,Spacelane Patrol,3024
+2811,Wiyrkomi Peace Corps,3025
+2813,Union Day Workers,3035
+2814,Union Day Executive,3037
+2815,Union Day Executive,3038
+2819,Sanguinary Savant,3082
+2820,Order of Tetrimon,2842
+2824,Tercio Rojo,3084
+2825,Tercio Rojo,3085
+2826,Glittering Dream,3099
+2827,Glittering Dream,3100
+2828,Glittering Dream,3101
+2829,Semiotique Sports,3098
+2846,Luminae Polaris,3120
+2847,Luminae Polaris,3118
+2848,Luminae Polaris,3119
+2852,Aurora Universalis,3121
+2853,Aurora Universalis,3130
+2862,Red Stargazer,3157
+2863,Red Stargazer,3158
+2864,Red Stargazer,3159
+2865,Red Stargazer,3160
+2866,Red Stargazer,3161
+2867,Red Stargazer,3162
+2868,Red Stargazer,3163
+2869,Minmatar Victory,3091
+2870,Penumbral Shadows,3173
+2871,Penumbral Shadows,3174
+2872,Penumbral Shadows,3175
+2873,Penumbral Shadows,3177
+2874,Penumbral Shadows,3176
+2875,Penumbral Shadows,3178
+2879,GalNet StreamCast Unit,3126
+2880,GalNet StreamCast Unit,3127
+2883,Zydrine Burn,3192
+2884,Zydrine Burn,3193
+2889,Capsuleer Day XX,3198
+2890,Capsuleer Day XX,3199
+2891,Capsuleer Day XX,3200
+2892,Capsuleer Day XX,3201
+2893,Capsuleer Day XX,3202
+2894,Capsuleer Day XX,3203
+2895,Capsuleer Day XX,3204
+2910,Capsuleer Elite XX,3207
+2911,Capsuleer Elite XX,3206
+2912,Capsuleer Elite XX,3209
+2913,Capsuleer Elite XX,3208
+2914,Capsuleer Elite XX,3210
+2915,Gilded Predator,50
+2916,Gilded Predator,52
+2917,Gilded Predator,48
+2918,Gilded Predator,82
+2919,Gilded Predator,51
+2920,Gilded Predator,47
+2928,Luminaire Rising,3248
+2953,Gallente Victory,3247
+2965,Immortal Eden,3279
+2966,Solar Brilliance,81
+2977,Awakening YC125,3311
+2978,Awakening YC125,3312
+2979,Awakening YC125,3313
+2980,Awakening YC125,3314
+2981,Genolution Dazzle,3316
+2985,Empyrean Outlaws,3332
+2986,Empyrean Outlaws,3333
+2988,Arkombine Arisen,3341
+2989,Arkombine Arisen,3342
+2990,Arkombine Arisen,3344
+2991,Arkombine Arisen,3345
+2999,Arkombine Arisen,3364
+3004,Luminae Polaris,3358
+3005,Luminae Polaris,3359
+3006,Luminae Polaris,3360
+3007,Luminae Polaris,3361
+3021,Imperial Police,3374
+3022,Republic Police,3375
+3023,Aegis Police,3376
+3026,Arkombine Arisen,3386
+3027,Arkombine Arisen,3387
+3029,Empyrean Dragons,3390
+3030,Empyrean Dragons,3391
+3031,Empyrean Dragons,3392
+3032,Empyrean Dragons,3393
+3033,Empyrean Dragons,3394
+3035,Arkombine Arisen,3398
+3036,Zydrine Burn,3400
+3037,Zydrine Burn,3401
+3038,Capsuleer Day XXI,3413
+3039,Capsuleer Day XXI,3412
+3040,Capsuleer Day XXI,3411
+3041,Capsuleer Day XXI,3410
+3042,Capsuleer Day XXI,3409
+3043,Capsuleer Day XXI,3408
+3044,Capsuleer Day XXI,3407
+3045,Capsuleer Day XXI,3406
+3046,Capsuleer Day XXI,3405
+3047,Capsuleer Day XXI,3404
+3055,War for the Empire,3422
+3056,War for the State,3423
+3057,War for the Federation,3424
+3058,War for the Republic,3425
+3059,Equinox Era,3426
+3060,Equinox Era,3427
+3061,Media Miasma,3429
+3062,Media Miasma,3430
+3063,Media Miasma,3431
+3064,Media Miasma,3432
+3065,Media Miasma,3433
+3066,Media Miasma,3434
+3067,Media Miasma,3435
+3070,Mabebu Exchange,3440
+3071,Mabebu Exchange,3441
+3072,Mabebu Exchange,3442
+3073,Mabebu Exchange,3443
+3074,Mabebu Exchange,3444
+3077,Empyrean Outlaws,3470
+3078,Empyrean Outlaws,3471
+3079,Empyrean Outlaws,3472
+3080,CONCORD Victory,3473
+3081,Victorious Venom,3474
+3094,Arkombine Arisen,3461
+3095,Arkombine Arisen,3462
+3096,Arkombine Arisen,3463
+3097,Luminae Polaris,3468
+3098,Luminae Polaris,3469
+3102,Aurora Universalis,3455
+3103,Aurora Universalis,3456
+3104,Shattered Paradigm,3488
+3105,Shattered Paradigm,3489
+3106,Shattered Paradigm,3490
+3119,Celestial Coalescence,3512
+3120,Celestial Coalescence,3513
+3121,Celestial Coalescence,3514
+3122,Celestial Coalescence,3515
+3123,Celestial Coalescence,3516
+3126,Resplendent Coil,3522
+3127,Resplendent Coil,3524
+3128,Zydrine Burn,3526
+3129,Federal Police,3527
+3130,Khanid Cyber Knight,3528
+3131,Khanid Cyber Knight,3529
+3134,Tyrantbreaker,3532
+3135,Tyrantbreaker,3534
+3136,Tyrantbreaker,3535
+3137,Tyrantbreaker,3537
+3138,Tyrantbreaker,3538
+3139,Tyrantbreaker,3536
+3140,Tyrantbreaker,3533
+3141,Tyrantbreaker,3539
+3142,Tyrantbreaker,3540
+3143,Tyrantbreaker,3541
+3144,Tyrantbreaker,3542
+3145,Blackbody Drift,3547
+3146,Sponsored Security,3548
+3147,Sponsored Security,3549
+3148,Sponsored Security,3550
+3153,Azdaja Extirpated,3555
+3155,Hrada-Oki Offender,3559
+3156,Khanid Cyber Knight,3560
+3160,Arkombine Arisen,3563
+3161,Deathglow Remnant,3567
+3163,Cold Wind's Call,3568
+3169,Sanguinary Savant,3572
+3174,Azdaja Extirpated,3575
+3175,Shattered Paradigm,3576
+3176,Shattered Paradigm,3573
+3177,Shattered Paradigm,3574
+3178,Sanguinary Savant,3579
+3179,Refined Resourcer,3583
+3180,Aurora Universalis,3585
+3181,Refined Resourcer,3586
+3182,Caldari Victory,3589
+3183,Friendship League,3600
+3184,Friendship League,3601
+3185,Media Miasma,3602
+3186,Media Miasma,3603
+3187,Media Miasma,3604
+3188,Media Miasma,3605
+3189,Media Miasma,3606
+3190,Media Miasma,3607
+3191,Media Miasma,3608
